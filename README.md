@@ -49,7 +49,7 @@
    - [PDF](materials/ia2021_lecture7.pdf)
 
 2. **<span style="color:red;">PageRankの補足+レポート課題用ノートブック（修正版）(.ipynb)</span>**
-      - [ia2021_linkanalysis_v2.ipynn](notebooks/ia2021_linkanalysis_v2.ipynb)
+      - [ia2021_linkanalysis_v2.ipynb](notebooks/ia2021_linkanalysis_v2.ipynb)
       - 「1.3 確率行列へ修正しない行列で行う べき乗法」を修正しています．
       - ダウンロードできない場合はリンクを右クリックして「リンク先を名前をつけて保存」でダウンロードしてください
 
