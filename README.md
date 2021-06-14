@@ -12,7 +12,7 @@
 
 ## お知らせ
 - (2021/6/14)  6月16日分講義資料をアップロードしました
-  -  <span style="color:red;">6月9日講義6月30日（水）に配布したノートブック（ia2021_linkanalysis_v2.ipyn）を修正しましたので，再取得ください．</span>
+  -  <span style="color:red;">6月9日講義6月30日（水）に配布したノートブックを修正（ia2021_linkanalysis_v2.ipynb）しましたので，再取得ください．</span>
 - (2021/6/9)  6月16日分講義資料をアップロードしました
 - (2021/6/8)  6月9日分講義資料をアップロードしました
   - <span style="color:red;">ノートブックの提出締め切りを6月23日（水）としていましたが，6月30日（水）に変更しました</span>
@@ -49,7 +49,7 @@
    - [PDF](materials/ia2021_lecture7.pdf)
 
 2. **<span style="color:red;">PageRankの補足+レポート課題用ノートブック（修正版）(.ipynb)</span>**
-      - [ipynb](notebooks/ia2021_linkanalysis_v2.ipynb)
+      - [ia2021_linkanalysis_v2.ipynn](notebooks/ia2021_linkanalysis_v2.ipynb)
       - 「1.3 確率行列へ修正しない行列で行う べき乗法」を修正しています．
       - ダウンロードできない場合はリンクを右クリックして「リンク先を名前をつけて保存」でダウンロードしてください
 
@@ -58,9 +58,6 @@
 1. **6月9日講義資料(.pdf)**
    - [PDF](materials/ia2021_lecture6.pdf)
 
-2. **PageRankの補足+レポート課題用ノートブック(.ipynb)**
-      - [ipynb](notebooks/ia2021_linkanalysis.ipynb)
-      - ダウンロードできない場合はリンクを右クリックして「リンク先を名前をつけて保存」でダウンロードしてください
 
 
 ### 5月26日 第5回講義
